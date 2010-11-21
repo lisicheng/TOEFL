@@ -151,6 +151,8 @@ Verb: Make (a hole or channel) by digging.
 }
 exceed
 
-//added
+unfamiliar
+{
 elusive
 emblem
+}
