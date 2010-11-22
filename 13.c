@@ -1,4 +1,7 @@
-fidelity - Noun: Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.
+fidelity
+{
+Noun: Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.
+}
 fin - Noun: A flattened appendage on various parts of the body of many aquatic vertebrates and some invertebrates, including fish and cetaceans, used for propelling, steering, and balancing.
 finch - Noun: A seed-eating songbird that typicaly has a stout bill and colorful plumage.
 plumage
