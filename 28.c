@@ -14,6 +14,8 @@ rugs(plural)
 Noun:A floor covering of shaggy or woven material, typically not extending over the entire floor.
     A small covering of shaggy or woven material, typically not extending over the entire floor.
 }
+shaggy
+weave woven
 rugged
 {
 Adjective:(of ground or terrain)Having a broken, rocky, and uneven surface.
@@ -31,7 +33,7 @@ Noun:A reddish-or yellowish-brown flaky coating of iron oxide that is formed on 
 }
 rustic
 {
-Adjective:Having a simplicity and charm that is considered typical of the countrysize. Constructed or made in a plain and simple fashion, in particular.
+Adjective:Having a simplicity and charm that is considered typical of the countryside. Constructed or made in a plain and simple fashion, in particular.
 Noun:An unsophisticated person.
 }
 sophisticated
@@ -61,6 +63,8 @@ sanitation
 {
 Noun:Conditions relating to public health, esp. the provision of clean drinking water and adequate sewage disposal.
 }
+sowage
+disposal
 sapphire
 {
 A transparent precious stone, typically blue, which is a variety of corundum(aluminum oxide)
@@ -99,7 +103,7 @@ Adverb:Scarcely.
 scarf
 {
 Verb:Join the ends of(two pieces of timber or metal)by beveling or notching them so that they fit over or into each other.
-Noun:A length or square of fabric worn around the neck or head.
+Noun:A length or square of fabric worn around the neck or head.*
 Verb:Eat or drink(something) hungrily or enthusiastically.
 Noun:A joint connecting two pieces of timber or metal in which the ends are veveled  or notched so that they fit over or into each other.
 }
@@ -256,35 +260,4 @@ sequoia
 {
 Noun:A redwood tree, esp. the California redwood.
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
