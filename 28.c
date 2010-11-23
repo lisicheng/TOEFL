@@ -261,3 +261,22 @@ sequoia
 Noun:A redwood tree, esp. the California redwood.
 }
 
+unfamiliar
+{
+rupture
+salient
+satire
+saturate
+sauce
+scarce
+scatter
+scavenger
+scrape
+scratch
+scruffy
+scurry
+sedentary
+sediment
+seminar
+sentimental
+}
