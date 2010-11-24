@@ -3,6 +3,7 @@ rub
 Verb:Move one's hand or a cloth repeatedly to and fro on the surface of (something)with firm pressure.
 Noun:An act of rubbing. An ointment designed to be rubbed on the skin to ease pain.
 }
+fro
 rudimentary
 {
 Adjective:Involving or limited to basic principles. Of or relating to an immature, undeveloped, or basic form.
@@ -15,11 +16,18 @@ Noun:A floor covering of shaggy or woven material, typically not extending over 
     A small covering of shaggy or woven material, typically not extending over the entire floor.
 }
 shaggy
+{
+Adjective:(of hair or fun)Long, thick and unkempt.
+}
 weave woven
 rugged
 {
 Adjective:(of ground or terrain)Having a broken, rocky, and uneven surface.
     (of a machine or other manufactured object)Strongly made and capable of withstanding rough handling.
+}
+withstand endure
+{
+Verb:Remain undamaged or unaffected by; resist.
 }
 rupture
 {
@@ -46,6 +54,10 @@ sacred
 {
 Adjective:Connected with God(or the gods) or dedicated to a religious purpose and so deserving veneration. Religious rather than secular.
 }
+veneration
+{
+Adjective:Great respect;
+}
 salamander
 {
 Noun:A newtlike amphibian that typically has bright markings, and that once was thought to be able to endure fire.
@@ -55,6 +67,7 @@ salient
 Noun:A piece of land or section of fortification that juts out to form an angle. An outward bulge in a line of military attack or defence.
 Adjective:Most noticeable or important. Prominent; conspicuous.
 }
+fort
 salmon
 {
 Noun:A large edible fish that is a popular game fish, much prized for its pink flesh. Salmon mature in the sea but migrate to freshwater streams to spawn.
@@ -63,7 +76,7 @@ sanitation
 {
 Noun:Conditions relating to public health, esp. the provision of clean drinking water and adequate sewage disposal.
 }
-sowage
+sewage
 disposal
 sapphire
 {
@@ -263,6 +276,7 @@ Noun:A redwood tree, esp. the California redwood.
 
 unfamiliar
 {
+veneration
 rupture
 salient
 satire
