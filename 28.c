@@ -273,7 +273,6 @@ sequoia
 {
 Noun:A redwood tree, esp. the California redwood.
 }
-
 unfamiliar
 {
 veneration
@@ -293,4 +292,5 @@ sedentary
 sediment
 seminar
 sentimental
+secrete
 }

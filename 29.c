@@ -219,4 +219,12 @@ solitary
 Adjective:Done or existing alone. (of a place)Secluded or isolated.
 Noun:A recluse or hermit.
 }
-
+unfamiliar
+{
+shovel
+shroud
+simmer
+slender
+sloth
+solicit
+}
