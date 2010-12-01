@@ -17,7 +17,7 @@ Noun:A floor covering of shaggy or woven material, typically not extending over 
 }
 shaggy
 {
-Adjective:(of hair or fun)Long, thick and unkempt.
+Adjective:(of hair or fur)Long, thick and unkempt.
 }
 weave woven
 rugged

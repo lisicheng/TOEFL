@@ -3,10 +3,14 @@ sew
 Verb:Join, fasten, or repair (something)by making stitches with a needle and thread or a sewing maching.
     Attach (something)to something else by sewing.
 }
+stitches
+needle
 sewage
 {
 Noun:Waste water and excrement conveyed in sewers.
 }
+excrement
+sewer
 shade
 {
 Verb:Screen from direct light. Cover, moderate, or exclude the light of.
@@ -66,6 +70,7 @@ shrimp prawn lobster
 Verb:Fish for shrimp.
 Noun:A small free-swimming crustacean with an elongated body, typically marine and frequently harvested for food.
 }
+elongate
 shrink
 {
 Verb:Become or make smaller in size or amount; contract or cause to contract.
@@ -149,6 +154,7 @@ Adjective:(of a person or part of the body)Gracefully thin.
     (esp. of a rod or stem)Of small girth or breadth.
     (of something abstract)Barely sufficient in amount or basis.
 }
+vulnerability
 slide
 {
 Noun:A structure with a smooth sloping surface for children to slide down.
