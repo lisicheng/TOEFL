@@ -235,7 +235,7 @@ Verb:Set apart from the rest of from each other; isolate or divide.
 }
 seismic
 {
-Adjective:Of or relating to earthquakes or other vibrations of the earth and its crust.
+Adjective:Of or relating to earthqukes or other vibrations of the earth and its crust.
     Relating to or denoting geological surveying methods involving vibrations produced artificially by explosions.
 }
 seismograph
