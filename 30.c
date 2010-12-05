@@ -216,7 +216,7 @@ Verb:Walk or move insteadily, as if about to fall.
 stain
 {
 Verb:Mark (something)with colored patches or dirty marks that are not easily removed.
-    Be marked or be liable to e marked with such patches.
+    Be marked or be liable to be marked with such patches.
 Noun:A colored patch or dirty mark that is difficult to remove.
 }
 stake
@@ -239,4 +239,25 @@ Verb:Sort or classify(wool, etc.)according to fiber.
 Noun:A main or important element of something, esp. of a diet.
 Verb:Attach or secure with a staple or staples.
 }
-
+unfamiliar
+{
+sour
+span
+specimen
+spectacle
+speculate
+spew
+spill
+spiny
+spiral
+sponge
+sprawl
+spray
+sprout
+spur
+squid
+squirt
+stagger
+stain
+stake
+}
