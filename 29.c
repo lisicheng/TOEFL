@@ -221,10 +221,14 @@ Noun:A recluse or hermit.
 }
 unfamiliar
 {
+shatter
 shovel
 shroud
 simmer
 slender
 sloth
 solicit
+solder
+slog
+slumber
 }
