@@ -241,6 +241,7 @@ Verb:Attach or secure with a staple or staples.
 }
 unfamiliar
 {
+spin
 sour
 span
 specimen
@@ -260,4 +261,9 @@ squirt
 stagger
 stain
 stake
+splash
+spontaneity
+squeeze
+squirrel
+staple
 }
