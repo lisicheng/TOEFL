@@ -1,6 +1,6 @@
 pathology
 {
-Noun: The science of the causes and efects of diseases, esp. the branch of medicine that deals with the laboratory examination of samples of body tissue for diagnostic or forensic purpose.
+Noun: The science of the causes and effects of diseases, esp. the branch of medicine that deals with the laboratory examination of samples of body tissue for diagnostic or forensic purpose.
 }
 patriot
 {
@@ -8,7 +8,8 @@ Noun: A person who vigorously supports their country and is prepared to defend i
 }
 patrol
 {
-Verb: Keep watch over(an area)by regularly walking or traveling around or through it. Noun: A person or group of people sent to keep watch over an area, esp. a detachment of guards or police.
+Verb: Keep watch over(an area)by regularly walking or traveling around or through it. 
+Noun: A person or group of people sent to keep watch over an area, esp. a detachment of guards or police.
 }
 patron
 {
@@ -28,15 +29,18 @@ Verb: Cover(a piece of ground)with concrete, asphalt, stones, or bricks; lay pav
 }
 peak
 {
-Noun: The pointed top of a mountain. A mountain, esp. one with a pointed top. Adjective: Greatest; maximum.
+Noun: The pointed top of a mountain. A mountain, esp. one with a pointed top. 
+Adjective: Greatest; maximum.
 }
 pebble
 {
-Adjective: (of an eyeglass lens)Very thick and convex. Noun: A small stone made smooth and round by the action of water or sand.
+Adjective: (of an eyeglass lens)Very thick and convex. 
+Noun: A small stone made smooth and round by the action of water or sand.
 }
 peculiar
 {
-Adjective: Strange or odd; unusual.Slightly and indefinably unwell; faint or dizzy. Noun:A parish or church exempt from the jurisdiction of the diocese in which it lies, through being subject to the jurisdiction of the monarch or an archbishop.
+Adjective: Strange or odd; unusual.Slightly and indefinably unwell; faint or dizzy. 
+Noun:A parish or church exempt from the jurisdiction of the diocese in which it lies, through being subject to the jurisdiction of the monarch or an archbishop.
 }
 pedagogy
 {
@@ -64,7 +68,8 @@ Noun:Musical instruments played by striking with the hand or with a hand-held or
 }
 perfume
 {
-Verb:Impart a pleasant smell to;Noun:a fragrant liquid typically made from essential oils extracted from flowers and spices, used to impart a pleasant smell to one's body or clothes.
+Verb:Impart a pleasant smell to;
+Noun:a fragrant liquid typically made from essential oils extracted from flowers and spices, used to impart a pleasant smell to one's body or clothes.
 }
 periodic
 {
@@ -124,7 +129,8 @@ Noun:A store where medicinal drugs are dispensed and sold.
 }
 phase
 {
-Verb:Carry out(something)in gradual stages. Noun:A distinct period or stage in a process of change or forming part of something's development.
+Verb:Carry out(something)in gradual stages. 
+Noun:A distinct period or stage in a process of change or forming part of something's development.
 }
 pheromone
 {
@@ -144,7 +150,8 @@ Noun:The branch of biology that deals with the normal functions of living organi
 }
 pictorial
 {
-Noun:A newspaper or periodical with pictures as a main feature. Adjective:Of or expressed in pictures;illustrated.
+Noun:A newspaper or periodical with pictures as a main feature. 
+Adjective:Of or expressed in pictures;illustrated.
 }
 pierce
 {
@@ -156,15 +163,18 @@ Noun:A stout seed or fruit-eating bird with a small head, short legs, and a cooi
 }
 pigment
 {
-Noun:The natural coloring matter of animal or plant tissue. Verb:Color(something)with or as if with pigment.
+Noun:The natural coloring matter of animal or plant tissue. 
+Verb:Color(something)with or as if with pigment.
 }
 pine
 {
-Noun:An evergreen coniferous tree that has clusters of long needle-shaped leaves. Verb:Suffer a mental and physical decline, esp. because of a broken heart.
+Noun:An evergreen coniferous tree that has clusters of long needle-shaped leaves. 
+Verb:Suffer a mental and physical decline, esp. because of a broken heart.
 }
 pinpoint
 {
-Adjective:Absolutely precise; to the finest degree; Tiny. Noun:A tiny dot or point. Verb:Find or locate exactly.
+Adjective:Absolutely precise; to the finest degree; Tiny. 
+Noun:A tiny dot or point. Verb:Find or locate exactly.
 }
 piracy
 {
@@ -172,11 +182,15 @@ Noun:The practice of attacking and robbing ships at sea. A similar practive in o
 }
 pit
 {
-Verb:Remove the pit from(fruit).Noun:The stone of a fruit. Noun: A large hole in the ground.
+Verb:Remove the pit from(fruit).
+Noun:The stone of a fruit. 
+Noun: A large hole in the ground.
 }
 pitch
 {
-Noun:A sticky resinous black or dark brown substance that is semiliquid when hot, hard when cold. Noun:The quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone. Verb:Throw(the ball)for the batter to try to hit.
+Noun:A sticky resinous black or dark brown substance that is semiliquid when hot, hard when cold. 
+Noun:The quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone. 
+Verb:Throw(the ball)for the batter to try to hit.
 }
 pivotal
 {
@@ -184,7 +198,8 @@ Adjective:Of crucial importance in relation to the development or success of som
 }
 plank
 {
-Verb:Make, provide, or cover with planks.Noun:A long, thin, flat piece of timber, used esp. in building and flooring.
+Verb:Make, provide, or cover with planks.
+Noun:A long, thin, flat piece of timber, used esp. in building and flooring.
 }
 plankton
 {
@@ -196,11 +211,13 @@ Noun:The colorless fluid part of blood, lymph, or milk, in which corpuscles or f
 }
 plaster
 {
-Verb:Cover(a wall, ceiling, or other structure)with plaster. Noun:A soft mixture of lime with sand or cement and water for spreading on walls, ceilings, or other structures to form a smooth hard surface when dried.
+Verb:Cover(a wall, ceiling, or other structure)with plaster. 
+Noun:A soft mixture of lime with sand or cement and water for spreading on walls, ceilings, or other structures to form a smooth hard surface when dried.
 }
 plateau
 {
-Verb:Reach a state of little or no change after a time of activity or progress. Noun:An area of relatively level high ground.
+Verb:Reach a state of little or no change after a time of activity or progress. 
+Noun:An area of relatively level high ground.
 }
 platitude
 {
@@ -233,4 +250,22 @@ Adjective:Having a full rounded shape. Noun:An abrupt plunge; a heavy fall. Verb
 plunge
 {
 Verb:Jump or dive quickly and energetically. Noun:An act of jumping or diving into water.
+}
+unfamiliar
+{
+patronize
+peculiar
+pedagogy
+perish
+pertain
+pertinent
+pharmacy
+pheromone
+physiology
+piracy
+pit
+pitch
+plank
+plasma
+plateau
 }

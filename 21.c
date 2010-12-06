@@ -1,6 +1,6 @@
 moth
 {
-Noun: A chiefly nocturnal insect related to the butterflies. It lacks the clubbed antennae of butterflies and typically has a stout body, drab coloration, and wings that fold flat when resting.
+Noun:A chiefly nocturnal insect related to the butterflies. It lacks the clubbed antennae of butterflies and typically has a stout body, drab coloration, and wings that fold flat when resting.
 }
 motif
 {
@@ -24,7 +24,8 @@ Adjective: Of or relating to a city or town or its governing body.
 }
 mural
 {
-Noun: A painting or other work of art executed directly on a wall. Adjective: Of, like, or relating to a wall.
+Noun: A painting or other work of art executed directly on a wall. 
+Adjective: Of, like, or relating to a wall.
 }
 musicologist
 {
@@ -36,7 +37,8 @@ Adjective: (of a feeling or action)Experienced or done by each of two or more pa
 }
 myriad
 {
-Adjective: Countless or extremely great in number. Noun: A countless or extremely great number.
+Adjective:Countless or extremely great in number. 
+Noun:A countless or extremely great number.
 }
 myth
 {
@@ -60,7 +62,7 @@ Noun: A sugary fluid secreted by plants, esp. within flowers to encourage pollin
 }
 needy
 {
-Adjective: (of a person)Lacking the necessities of life; very poor.
+Adjective:(of a person)Lacking the necessities of life; very poor.
 }
 negate
 {
@@ -68,7 +70,8 @@ Verb: Make(a clause, sentence, or proposition)negative in meaning.
 }
 neglect
 {
-Noun: The state or fact of being uncared for. Verb: Fail to care for properly. Not pay proper attention to; disregard.
+Noun:The state or fact of being uncared for. 
+Verb:Fail to care for properly. Not pay proper attention to; disregard.
 }
 neoclassical
 neolithic
@@ -85,15 +88,17 @@ Adverb: In spite of that; notwithstanding; all the same.
 }
 newsletter
 {
-Noun: a bulletin issued periodically to the members of a society, business, or organization. bulletin.
+Noun:a bulletin issued periodically to the members of a society, business, or organization. bulletin.
 }
 niche
 {
-Verb: Place or position(something)in a niche. Noun: A shallow recess, esp. one in a wall to display a statue or other ornament.
+Verb: Place or position(something)in a niche. 
+Noun: A shallow recess, esp. one in a wall to display a statue or other ornament.
 }
 nickel
 {
-Verb: Coat with nickel. Noun: A silvery-white metal, the chemical element of atomic number 28. A five-cent coin; five cents.
+Verb: Coat with nickel. 
+Noun: A silvery-white metal, the chemical element of atomic number 28. A five-cent coin; five cents.
 }
 nitrogen
 {
@@ -109,7 +114,8 @@ Adjective: lead a nomadic life on the road.
 }
 nominate
 {
-Verb: Propose or formally enter as a candidate for election or for an honor or award. Appoint to a job or position. Adjective: Denoting a race or subspecies that is given the same epithet as the species to which it belongs.
+Verb: Propose or formally enter as a candidate for election or for an honor or award. Appoint to a job or position. 
+Adjective: Denoting a race or subspecies that is given the same epithet as the species to which it belongs.
 }
 nominee
 {
@@ -117,7 +123,9 @@ Noun: A person who is proposed or formally entered as a candidate for an office 
 }
 notwithstanding
 {
-Preposition: In spite of. although. Conjunction: in spite of the fact that. Adverb: Nevertheless; in spite of this.
+Preposition: In spite of. although. 
+Conjunction: in spite of the fact that. 
+Adverb: Nevertheless; in spite of this.
 }
 nourish
 {
@@ -137,7 +145,8 @@ Adjective: Great in number;many. Consisting of many members.
 }
 nurture
 {
-Verb: Care for and encourage the growth or development of. Noun: The process of caring for and encouraging the growth or development of someone or something.
+Verb: Care for and encourage the growth or development of. 
+Noun: The process of caring for and encouraging the growth or development of someone or something.
 }
 oasis
 {
@@ -157,14 +166,17 @@ Verb: Preoccupy or fill the mind of(someone)continually, intrusively, and to a t
 }
 obsolete
 {
-Adjective: No longer produced or used; out of date. Verb: Cause(a product or idea)to be or become obsolete by replacing it with something new.
+Adjective: No longer produced or used; out of date. 
+Verb: Cause(a product or idea)to be or become obsolete by replacing it with something new.
 }
 obstruct
 {
 Verb: Block(an opening, path, road, etc.); be or get in the way of.
 }
-//added
+unfamiliar
+{
 mundane
 nourish
 oblivious
 obsolete
+}
