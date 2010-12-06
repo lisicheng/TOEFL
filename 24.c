@@ -1,6 +1,7 @@
 polish
 {
-Verb:Make the surface of(something)smooth and shiny by rubbing it. Improve, refine, or add the finishing touches to. Noun: A substance used to give something a smooth and shiny surface when rubbed in.
+Verb:Make the surface of(something)smooth and shiny by rubbing it. Improve, refine, or add the finishing touches to. 
+Noun: A substance used to give something a smooth and shiny surface when rubbed in.
 }
 pollen
 {
@@ -28,7 +29,8 @@ Adjective:(of a rock or other material)Having minute spaces or holes through whi
 }
 portable
 {
-Noun:A version of something, such as a small lightweight television or computer, that can be easily carried. Adjective:Able to be easily carried or moved, esp. because a lighter smaller version than usual.
+Noun:A version of something, such as a small lightweight television or computer, that can be easily carried. 
+Adjective:Able to be easily carried or moved, esp. because a lighter smaller version than usual.
 }
 portray
 {
@@ -36,7 +38,8 @@ Verb:Depict(someone or something)in a work of art or literature. (of an actor)Re
 }
 posit
 {
-Verb:Assume as a fact;put forward as a basis of argument. Base something on the truth of(a particular assumption). Put in position;place. Noun:A statement that is made on the assumption that it will prove to be true.
+Verb:Assume as a fact; put forward as a basis of argument. Base something on the truth of(a particular assumption). Put in position;place. 
+Noun:A statement that is made on the assumption that it will prove to be true.
 }
 poster
 {
@@ -48,7 +51,8 @@ Verb:Cause or arrange for(something)to take place at a time later than that firs
 }
 postulate
 {
-Verb:Suggest or assume the existence, fact, or truth of(something)as a basis for reasoning, discussion, or belief. Noun:A thing suggested or assumed as the basis for reasoning, discussion, or belief. related:perpetuate
+Verb:Suggest or assume the existence, fact, or truth of(something)as a basis for reasoning, discussion, or belief. 
+Noun:A thing suggested or assumed as the basis for reasoning, discussion, or belief. related:perpetuate
 }
 potassium
 {
@@ -60,7 +64,8 @@ Noun:A person who makes pottery.
 }
 pound
 {
-Verb:Shut(an animal)in a pound. Verb:Strike or hit heavily and repeatedly.
+Verb:Shut(an animal)in a pound. 
+Verb:Strike or hit heavily and repeatedly.
 }
 prairie
 {
@@ -72,7 +77,8 @@ Verb:Come before(something)in time. Come before in order or position. Go in fron
 }
 precipitate
 {
-Verb:Cause(an event or situation, typically one that is bad or undesirable)to happen suddenly, unexpectedly, or prematurely. Adjective:Done, made, or acting suddenly or without careful consideration.eg.The incident precipitated a political crisis.
+Verb:Cause(an event or situation, typically one that is bad or undesirable)to happen suddenly, unexpectedly, or prematurely. 
+Adjective:Done, made, or acting suddenly or without careful consideration.eg.The incident precipitated a political crisis.
 }
 precursor
 {
@@ -100,7 +106,8 @@ Noun:The quality or fact of being greater in number, quantity, or importance.eg.
 }
 prerequisite
 {
-Noun:A thing that is required as a prior condition for something else to happen or exist. Adjective:Required as a prior condition.
+Noun:A thing that is required as a prior condition for something else to happen or exist. 
+Adjective:Required as a prior condition.
 }
 prescribe
 {
@@ -120,7 +127,8 @@ Adjective:Inspiring respect and admiration;having high status.
 }
 pretension
 {
-Noun:A claim or the assertion of a claim to something.Verb:Apply tension to(an object)before some other process or event.
+Noun:A claim or the assertion of a claim to something.
+Verb:Apply tension to(an object)before some other process or event.
 }
 pretentious
 {
@@ -140,13 +148,16 @@ Adjective:Widespread in a particular area at a particular time. Predominant; pow
 }
 prey
 {
-Noun:A animal that is hunted and killed by another for food. A person or thing easily injured or taken advantage of. Verb:Hunt and kill for food.Take advantage of;exploit or injure.
+Noun:A animal that is hunted and killed by another for food. A person or thing easily injured or taken advantage of. 
+Verb:Hunt and kill for food.Take advantage of;exploit or injure.
 }
 principal
 {
-Noun:The person with the highest authority or most important position in an organization, institution, or group. Adjective:First in order of importance; main.
+Noun:The person with the highest authority or most important position in an organization, institution, or group. 
+Adjective:First in order of importance; main.
 }
 probe
 {
-Verb:Physically explore or examine(something)with the hands or an instrument. Seek to uncover information about someone or something. Noun:A small device, esp. an electrode, used for measuring, testing, or obtaining information.
+Verb:Physically explore or examine(something)with the hands or an instrument. Seek to uncover information about someone or something. 
+Noun:A small device, esp. an electrode, used for measuring, testing, or obtaining information.
 }

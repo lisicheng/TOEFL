@@ -184,7 +184,7 @@ pit
 {
 Verb:Remove the pit from(fruit).
 Noun:The stone of a fruit. 
-Noun: A large hole in the ground.
+Noun:A large hole in the ground.
 }
 pitch
 {
@@ -237,19 +237,24 @@ Adjective:Easily bent;flexible. Easily influenced.
 }
 plight
 {
-Noun:A dangerous, difficult, or otherwise unfortunate situation. Verb:Pledge or promise solemnly(one's faith or loyalty).
+Noun:A dangerous, difficult, or otherwise unfortunate situation. 
+Verb:Pledge or promise solemnly(one's faith or loyalty).
 }
 plow
 {
-Verb:Turn up the earth of(an area of land)with a plow, esp. before sowing. Cut(a furrow or line)with or as if with a plow. Noun: A large farming implement with one or more blades fixed in a frame, drawn by a tractor or by animals and used for cutting furrows in the soil and turning it over, esp. to prepare for the planting of seeds.
+Verb:Turn up the earth of(an area of land)with a plow, esp. before sowing. Cut(a furrow or line)with or as if with a plow. 
+Noun: A large farming implement with one or more blades fixed in a frame, drawn by a tractor or by animals and used for cutting furrows in the soil and turning it over, esp. to prepare for the planting of seeds.
 }
 plump
 {
-Adjective:Having a full rounded shape. Noun:An abrupt plunge; a heavy fall. Verb:Set down heavily or unceremoniously.
+Adjective:Having a full rounded shape. 
+Noun:An abrupt plunge; a heavy fall. 
+Verb:Set down heavily or unceremoniously.
 }
 plunge
 {
-Verb:Jump or dive quickly and energetically. Noun:An act of jumping or diving into water.
+Verb:Jump or dive quickly and energetically. 
+Noun:An act of jumping or diving into water.
 }
 unfamiliar
 {
@@ -268,4 +273,7 @@ pitch
 plank
 plasma
 plateau
+plausible
+pliable
+plight
 }
