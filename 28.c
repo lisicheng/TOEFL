@@ -275,12 +275,9 @@ Noun:A redwood tree, esp. the California redwood.
 }
 unfamiliar
 {
-veneration
 rupture
 salient
 satire
-saturate
-sauce
 scarce
 scatter
 scavenger
@@ -288,9 +285,7 @@ scrape
 scratch
 scruffy
 scurry
-sedentary
-sediment
-seminar
 sentimental
 secrete
+scout
 }

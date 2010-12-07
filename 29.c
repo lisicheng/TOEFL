@@ -221,6 +221,7 @@ Noun:A recluse or hermit.
 }
 unfamiliar
 {
+shatter
 shed
 shovel
 shroud
@@ -228,6 +229,8 @@ simmer
 slender
 sloth
 solicit
-sheer
+solder
 slog
+slumber
+sheer
 }

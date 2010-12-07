@@ -134,7 +134,8 @@ Verb:Extend or move in a long narrow strip like a ribbon.
 }
 ridge
 {
-Verb:Mark with or form into narrow raised bands. Noun:A long narrow hilltop, mountain range, or watershed.
+Verb:Mark with or form into narrow raised bands. 
+Noun:A long narrow hilltop, mountain range, or watershed.
 }
 rigid
 {
@@ -188,6 +189,7 @@ Adjective:Performed as part of a regular procedure rather than for a special rea
 }
 unfamiliar
 {
+resonance
 reservoir
 replenish
 residue
