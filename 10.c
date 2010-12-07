@@ -27,7 +27,8 @@ Verb: Pull or twist out of shape.
 distract
 distress
 {
-Noun: Extreme anxiety, sorrow, or pain. Verb: Cause (someone) anxiety, sorrow, or pain.
+Noun: Extreme anxiety, sorrow, or pain. 
+Verb: Cause (someone) anxiety, sorrow, or pain.
 }
 divert
 documentary
@@ -85,8 +86,11 @@ elliptical
 Adjective: (of speech or writing)Using or involving ellipsis, esp. so as to be difficult to understand.
 }
 eloquent
-
 unfamiliar
 {
 disguise
+dubious
+dormant
+eccentric
+elliptical
 }

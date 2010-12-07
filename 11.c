@@ -37,7 +37,7 @@ Verb: Unexpectedly experience or be faced with (something difficult or hostile).
 }
 endow
 {
-Verb: Give or bequeath an income or property to (a person or institutin).
+Verb: Give or bequeath an income or property to (a person or institution).
 }
 endure
 {
@@ -155,4 +155,9 @@ unfamiliar
 {
 elusive
 emblem
+rebel
+enzyme
+ephemeral
+behalf
+exalted
 }
