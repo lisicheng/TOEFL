@@ -1,6 +1,7 @@
 polish
 {
-Verb:Make the surface of(something)smooth and shiny by rubbing it. Improve, refine, or add the finishing touches to. Noun: A substance used to give something a smooth and shiny surface when rubbed in.
+Verb:Make the surface of(something)smooth and shiny by rubbing it. Improve, refine, or add the finishing touches to. 
+Noun: A substance used to give something a smooth and shiny surface when rubbed in.
 }
 pollen
 {
@@ -149,4 +150,8 @@ Noun:The person with the highest authority or most important position in an orga
 probe
 {
 Verb:Physically explore or examine(something)with the hands or an instrument. Seek to uncover information about someone or something. Noun:A small device, esp. an electrode, used for measuring, testing, or obtaining information.
+}
+unfamiliar
+{
+ponderous
 }
