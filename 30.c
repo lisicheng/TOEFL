@@ -213,6 +213,7 @@ stagger
 Verb:Walk or move insteadily, as if about to fall.
     Continue in existence or operation uncertainly or precariously.
 }
+precarious
 stain
 {
 Verb:Mark (something)with colored patches or dirty marks that are not easily removed.
