@@ -4,7 +4,8 @@ Adverb: At first.
 }
 initiate
 {
-Verb: Cause (a process or action)to begin. Admit(someone)into a secret or obscure society or group, typically with a ritual. Noun:A person who has been initiated into an organization or activity, typically recently.
+Verb: Cause (a process or action)to begin. Admit(someone)into a secret or obscure society or group, typically with a ritual. 
+Noun:A person who has been initiated into an organization or activity, typically recently.
 }
 inject
 {
@@ -161,8 +162,7 @@ jeopardize
 Verb: Put(someone or something)into a situation in which there is a danger or loss, harm, or failure.
 }
 
-unfamiliar
-{
+//unfamiliar
 insanity
 inscribe
 insulate
@@ -176,4 +176,4 @@ inventory
 invertebrate
 irritable
 ironic
-}
+intense
