@@ -98,7 +98,7 @@ Verb: Be resentfully unwilling to give, grant, or allow. Noun: A persistent feel
 }
 gulf
 hamper
-//added
+//unfamiliar
 girder
 gregarious
 grudge
