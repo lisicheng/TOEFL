@@ -30,7 +30,7 @@ Verb: Weaken or damage something(esp. a human faculty or function).
 }
 impart
 {
-Verb: Make(information)known;communicate.
+Verb: Make(information)known; Communicate.
 }
 impend
 {
@@ -241,11 +241,8 @@ inhibit
 {
 Verb: Hinder, restrain, or prevent(an action or process). Prevent or prohibit(someone) from doing something.
 }
-
-unfamiliar
-{
+//unfamiliar
 impart
-imperative
 impermeable
 improvise
 inaugurate
@@ -262,5 +259,7 @@ incense
 incessant
 induce
 ingredient
-}
-
+assimilate
+immense
+imperative
+utensil
