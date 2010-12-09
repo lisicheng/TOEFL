@@ -26,9 +26,10 @@ Adjective:Having or showing eagerness or enthusiasm.
 }
 kennel
 {
-Noun: A small shelter for a dog or cat.Asmall or sordid dwelling. 
+Noun: A small shelter for a dog or cat.A small or sordid dwelling. 
 Verb: Put(a dog or cat)in a kennel.
 }
+sordid
 kerosene
 {
 Noun: A light fuel oil obtained by distilling petroleum, used esp. in jet engines and domestic heaters and lamps and as a cleaning solvent.

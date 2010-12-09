@@ -68,7 +68,7 @@ a period of 1,000 years.
 }
 mime 
 {
-simulate, comedy. They often mimed the desired effet - success in hunt or battle.
+simulate, comedy. They often mimed the desired effect - success in hunt or battle.
 }
 mint
 {

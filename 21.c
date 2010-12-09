@@ -102,7 +102,7 @@ Noun: A silvery-white metal, the chemical element of atomic number 28. A five-ce
 }
 nitrogen
 {
-Noun: The chemical element of atomic number 7, a colorless, odorless unreactive gas that forms about 78 percent of the earth's atmosphere. Liquid nitrogen(made by distilling liquid air)boils at 77.4 kelvins and is used as a collant.
+Noun: The chemical element of atomic number 7, a colorless, odorless unreactive gas that forms about 78 percent of the earth's atmosphere. Liquid nitrogen(made by distilling liquid air)boils at 77.4 kelvins and is used as a coolant.
 }
 nocturnal
 {
@@ -133,7 +133,7 @@ Verb: Provide with the food or other substances necessary for growth, health, an
 }
 noxious
 {
-Adjective: Harmful, poinonous, or very unpleasant.
+Adjective: Harmful, poisonous, or very unpleasant.
 }
 nucleus
 {
@@ -173,10 +173,15 @@ obstruct
 {
 Verb: Block(an opening, path, road, etc.); be or get in the way of.
 }
-unfamiliar
-{
+//unfamiliar
 mundane
+municipal
+mural
+myth
+neglect
+nickel
+nomadic
 nourish
+noxious
 oblivious
 obsolete
-}
