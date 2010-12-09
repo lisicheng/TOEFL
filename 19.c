@@ -40,6 +40,9 @@ lounge
 lobby
 }
 lubricant
+{
+Noun:A substance, such a oil or grease, used for minimizing friction, esp. in engine or component.
+}
 lumber 
 {
 timber
@@ -50,7 +53,8 @@ Many adults were lured to the cities by promises of steady employment.
 }
 lush
 {
-Severin began to paint large, lush and still lives of flowers, fruit, or both.
+Adjective:Of vegetarian growing luxurantly.
+    Severin began to paint large, lush and still lives of flowers, fruit, or both.
 }
 luster 
 {
@@ -146,3 +150,9 @@ meager
 {
 deficient, scanty.
 }
+//unfamiliar
+litter
+lobby
+lounge
+lubricant
+magnesium

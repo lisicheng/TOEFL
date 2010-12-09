@@ -135,3 +135,5 @@ mosaic
 {
 Mosaic is the art of closely setting small, colored pieces, such as stone or glass, into a surface to create a decorative design.
 }
+//unfamiliar
+meteorology

@@ -101,7 +101,7 @@ Verb: Begin or introduce(a system, policy, or period). Admit(someone)formally to
 }
 incense
 {
-Verb: Perfume with incense or a similar fragrance. 
+Verb:Perfume with incense or a similar fragrance. 
 Verb:Make(someone)very angry. 
 Noun:A gum, spice, or other sustance that is burned for the sweet smell it produces.
 }
@@ -246,20 +246,23 @@ impart
 impermeable
 improvise
 inaugurate
-incinerate
 inclination
-inconspicuous
 incursion
 dispensable
-inevitably
-inferior
 infrared
 immunity
-incense
-incessant
-induce
 ingredient
 assimilate
 immense
 imperative
 utensil
+inanity
+incense
+incessant
+incinerate
+conspicuous
+induce
+inevitably
+inferior
+inherent
+inhibit

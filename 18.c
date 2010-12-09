@@ -40,7 +40,7 @@ Noun: A furnace or oven for burning, baking, or drying, esp. one for calcining l
 }
 kinetic
 {
-Adjective: Of, relating to, or resulting  from motion. (of a work of art)Depending on movement for its effect.
+Adjective: Of, relating to, or resulting from motion. (of a work of art)Depending on movement for its effect.
 }
 lament
 {
@@ -80,7 +80,8 @@ Noun: A fine linen or cotton fabric used for making clothes.
 }
 leak
 {
-Verb: (of a container or covering)Accidentally lose or admit contents, esp. liquid or gas, through a hole or crack. Noun:A hole in a container or covering through which contents, esp. liquid or gas, may accidentally pass.
+Verb: (of a container or covering)Accidentally lose or admit contents, esp. liquid or gas, through a hole or crack. 
+Noun:A hole in a container or covering through which contents, esp. liquid or gas, may accidentally pass.
 }
 leap
 {
@@ -89,7 +90,7 @@ Verb: Jump or spring a long way, to a great height, or with great force.
 }
 lease
 {
-Verb: Grant(property)on lease; let. Take(property)on lease;rent. 
+Verb:Grant(property)on lease; let. Take(property)on lease;rent. 
 Noun:A contract by which one party conveys land, property, services, etc., to another for a specified time, usually in return for a periodic payment.
 }
 ledge
@@ -118,7 +119,7 @@ Noun: A lack of energy and enthusiasm. A pathological state of sleepiness or dee
 }
 lettuce
 {
-Noun: A cultivated plant of the daisy family, with edible leaves that are a usual ingredient of salads.
+Noun: A cultivated plant of the daily family, with edible leaves that are a usual ingredient of salads.
 }
 lichen
 {
@@ -135,7 +136,7 @@ Noun: The edge of the disk of a celestial object, esp. the sun or moon.
 }
 lime
 {
-Noun: A rouned citrus fruit similar to a lemon but greener, smaller and with a distinctive acid flavor. 
+Noun:A rouned citrus fruit similar to a lemon but greener, smaller and with a distinctive acid flavor. 
 Verb:Treat(soil or water)with lime to reduce acidity and improve fertility or oxygen levels.
 }
 linen
@@ -159,8 +160,7 @@ listless
 Adjective:(of a person or their manner)Lacking energy or enthusiasm.
 }
 
-unfamiliar
-{
+//unfamiliar
 linger
 linen
 lichen
@@ -171,4 +171,6 @@ ledge
 legible
 lipid
 leisure
-}
+jolt
+kinetic
+lethal
