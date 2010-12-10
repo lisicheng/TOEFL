@@ -30,6 +30,9 @@ Noun: A small shelter for a dog or cat.A small or sordid dwelling.
 Verb: Put(a dog or cat)in a kennel.
 }
 sordid
+{
+Adjective:Dirty.
+}
 kerosene
 {
 Noun: A light fuel oil obtained by distilling petroleum, used esp. in jet engines and domestic heaters and lamps and as a cleaning solvent.
@@ -58,7 +61,7 @@ Noun: A device that generates and intense beam of coherent monochromatic light(o
 }
 lash
 {
-Verb: Strike(someone)with a whip or stick. Beat forcefully against(something). 
+Verb:Strike(someone)with a whip or stick. Beat forcefully against(something). 
 Noun:A sharp blow or stroke with a whip or rope, typically given as a form of punishment.
 }
 latent
@@ -175,3 +178,4 @@ leisure
 jolt
 kinetic
 lethal
+lawn
