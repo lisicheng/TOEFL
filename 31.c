@@ -90,7 +90,7 @@ Noun:A slight physical movement.
 }
 stout
 {
-Adejective:(of a person)Somewhat fat or of heavy build.
+Adjective:(of a person)Somewhat fat or of heavy build.
     (of an object)Strong and thick.
 }
 strain
@@ -98,7 +98,7 @@ strain
 Noun:A force tending to pull or stretch something to an extreme or damaging degree.
     The magnitude or a deformation, equal to the change in the dimension of a deformed object divided by its original demension.
 Noun:A breed, stock, or variety of an animal or plant developed by breeding.
-Verb:Force(a part of one's body or oneself)to make a strenuous or unusually great effort).
+Verb:Force(a part of one's body or oneself)to make a strenuous or unusually great effort.
 }
 strand
 {
