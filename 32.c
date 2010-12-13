@@ -244,3 +244,11 @@ tedium
 Noun:The state of being tedious.
     boredom.
 }
+//unfamilia
+suburb
+superintendent
+surge
+surpass
+susceptible
+sustenance
+swell
