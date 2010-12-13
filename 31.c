@@ -199,3 +199,9 @@ substantiate
 {
 Verb:Provide evidence to support or prove the truth of.
 }
+//unfamiliar
+startling
+stash
+steep
+stew
+submerge

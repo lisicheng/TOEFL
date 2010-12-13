@@ -252,3 +252,4 @@ surpass
 susceptible
 sustenance
 swell
+tedium
