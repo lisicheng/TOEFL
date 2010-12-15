@@ -253,3 +253,4 @@ susceptible
 sustenance
 swell
 tedium
+symptom
