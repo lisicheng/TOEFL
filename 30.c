@@ -61,7 +61,8 @@ Noun:An individual animal, plant, piece of a mineral, etc., used as an example o
 }
 spectacle
 {
-Noun:A visually striking performance or display. An event or scene regarded in terms of its visual impact.
+Noun:A visually striking performance or display. 
+    An event or scene regarded in terms of its visual impact.
 }
 spectacular
 {
@@ -201,7 +202,7 @@ Verb:Hide money or something of value in a safe place.
 squirt
 {
 Verb:Cause(a liquid) to be ejected from small opening in something in a thin, fast stream or jet.
-    Cause (a container of liquid) to eject its contents in this way.
+    Cause(a container of liquid) to eject its contents in this way.
 Noun:A thin stream or small quantity of liquid ejected from something.
 }
 stagecoach
@@ -240,31 +241,32 @@ Verb:Sort or classify(wool, etc.)according to fiber.
 Noun:A main or important element of something, esp. of a diet.
 Verb:Attach or secure with a staple or staples.
 }
-unfamiliar
-{
+//unfamiliar
 spin
 sour
 span
 specimen
 spectacle
 speculate
-spew
 spill
 spiny
-spiral
 sponge
-sprawl
-spray
 sprout
 spur
+stake
+spontaneity
+squirrel
+spectacular
+spew
+whirl
+spiral
+splash
+sprawl
+spray
+squeeze
 squid
 squirt
 stagger
+precarious
 stain
-stake
-splash
-spontaneity
-squeeze
-squirrel
 staple
-}
