@@ -259,4 +259,25 @@ tug
 Noun:A hard or sudden pull.
 Verb:Pull(something)hard or suddenly.
 }
-
+//unfamiliar
+tenant
+tendon
+tenement
+tentacle
+tenuous
+terrain
+terrestrial
+testimony
+thaw
+therapy
+thorn
+thrifty
+thrive
+thwart
+tile
+torrent
+tow
+tract
+tragic
+tribal
+trivial
