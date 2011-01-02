@@ -48,3 +48,11 @@ copious
 {
 Adjective:Abundant in supply or quantity.
 }
+smuggler
+{
+Noun:A person who smuggles goods.
+}
+peculiarity
+{
+Noun:An odd or unusual feature or habit.
+}
