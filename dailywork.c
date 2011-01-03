@@ -23,7 +23,7 @@ Adjective:Stated clearly and in detail, leaving no room for confusion or doubt.
 fiscal
 {
 Adjective:Of or relating to government revenue, esp. taxes.
-					Of or relating to financial matters.
+    Of or relating to financial matters.
 }
 sluggish
 {
@@ -55,4 +55,17 @@ Noun:A person who smuggles goods.
 peculiarity
 {
 Noun:An odd or unusual feature or habit.
+}
+penalise
+{
+Verb:punish.
+}
+problematic
+{
+Noun:A thing that constitutes a problem or difficulty.
+Adjective:Constituting or presenting a problem or difficulty.
+}
+humiliation
+{
+Noun:The action of humiliating someone or the state of being humiliated.
 }
