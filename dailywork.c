@@ -69,3 +69,7 @@ humiliation
 {
 Noun:The action of humiliating someone or the state of being humiliated.
 }
+
+
+//unfamiliar
+copious

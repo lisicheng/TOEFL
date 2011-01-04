@@ -197,8 +197,7 @@ blip
 Noun: A flashing point of light on a radar screen representing an object, typically accompanied by a high-pitched sound.
 }
 
-unfamiliar
-{
+//unfamiliar
 attain
 augment
 avert
@@ -210,4 +209,4 @@ benign
 beverage
 blast
 blip
-}
+bland
