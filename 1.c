@@ -61,4 +61,11 @@ afflict
 {
 Verb: Cause pain or suffering to; affect or trouble.
 }
-
+//unfamiliar
+acclaim
+accord
+acute
+adorn
+adverse
+aesthetic
+afflict

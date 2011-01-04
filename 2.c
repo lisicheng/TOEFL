@@ -29,7 +29,7 @@ Verb: Make (suffering, deficiency, or a problem) less severe.
 }
 alloy
 {
-Noun: A metal made by combining two or more metallic elements, esp. go give greater strength or resistance to corrosion. 
+Noun: A metal made by combining two or more metallic elements, esp. to give greater strength or resistance to corrosion. 
 Verb: Mix (metals) to make an alloy.
 }
 alter
@@ -133,6 +133,7 @@ Noun: the study of human history and prehistory through the excavation of sites 
 }
 evacuation
 retreat
+recreation
 arid
 {
 Adjective: (of land or a limate)Having little or no rain; too dry or barren to support vegetation.
@@ -162,4 +163,11 @@ ascribe
 {
 Verb: Attribute something to (a cause).
 }
-
+//unfamiliar
+amid
+amnesia
+ample
+anthropology
+applaud
+arid
+ascribe
