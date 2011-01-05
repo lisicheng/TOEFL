@@ -142,7 +142,8 @@ Noun: A person with heart disease.
 }
 cardinal
 {
-Adjective: Of the greatest importance; fundamental. Noun:A New World songbird.
+Adjective: Of the greatest importance; fundamental. 
+Noun:A New World songbird.
 }
 cargo
 {
@@ -178,19 +179,17 @@ cascade
 Noun: A small waterfall, typically one of several that fall in stages down a steep rocky slope.
 }
 
-unfamiliar
-{
+//unfamiliar
 boast
 brass
 breed
 breeze
-    brittle
+brittle
 bump
 burgeon
-    burrow
+burrow
 camouflage
 cape
 carnivore
 cart
-    cartilage
-}
+cartilage

@@ -190,7 +190,7 @@ Verb: Whiten by exposure to sunlight or by a chemical process.
 }
 blend
 {
-Verb: Mix(a substance)with another aubstance so that they combine together as a mass.
+Verb: Mix(a substance)with another substance so that they combine together as a mass.
 }
 blip
 {
@@ -210,3 +210,6 @@ beverage
 blast
 blip
 bland
+avalanche
+barter
+bleach
