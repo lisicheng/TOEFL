@@ -198,18 +198,5 @@ Noun: A flashing point of light on a radar screen representing an object, typica
 }
 
 //unfamiliar
-attain
-augment
-avert
-barb
-bare
 barge
-barrel
-benign
-beverage
 blast
-blip
-bland
-avalanche
-barter
-bleach

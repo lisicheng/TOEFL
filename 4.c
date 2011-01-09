@@ -180,16 +180,9 @@ Noun: A small waterfall, typically one of several that fall in stages down a ste
 }
 
 //unfamiliar
-boast
-brass
 breed
 breeze
-brittle
-bump
-burgeon
-burrow
 camouflage
-cape
-carnivore
-cart
+bump
+burrow
 cartilage
