@@ -190,24 +190,13 @@ Verb: Whiten by exposure to sunlight or by a chemical process.
 }
 blend
 {
-Verb: Mix(a substance)with another aubstance so that they combine together as a mass.
+Verb: Mix(a substance)with another substance so that they combine together as a mass.
 }
 blip
 {
 Noun: A flashing point of light on a radar screen representing an object, typically accompanied by a high-pitched sound.
 }
 
-unfamiliar
-{
-attain
-augment
-avert
-barb
-bare
+//unfamiliar
 barge
-barrel
-benign
-beverage
 blast
-blip
-}
