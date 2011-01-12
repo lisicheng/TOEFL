@@ -58,7 +58,8 @@ Noun: A group of stars forming a recognizable pattern that is traditionally name
 }
 constituent
 {
-Adjective: Being a part of a whole. Noun: A member of a constituency.
+Adjective: Being a part of a whole. 
+Noun: A member of a constituency.
 }
 constrain
 {
@@ -79,7 +80,7 @@ Verb: Eat, drink, or ingest(food or drink). Buy(goods or services).
 consumption
 {
 Noun: The using up of a resource. The eating, drinking, or ingesting of something.
-        A disease in pathology.
+A disease in pathology.
 }
 contagious
 {
@@ -131,7 +132,8 @@ Verb: (of several people or things)Come together from different directions so as
 }
 converse
 {
-Noun: Conversation. Verb: Engage in conversation.
+Noun: Conversation. 
+Verb: Engage in conversation.
 }
 convict
 {
@@ -187,11 +189,9 @@ courtship
 }
 crab
 
-unfamiliar
-{
+//unfamiliar
 consent
 consort
 content
 contest
 converge
-}
