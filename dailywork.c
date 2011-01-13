@@ -72,6 +72,8 @@ Noun:The action of humiliating someone or the state of being humiliated.
 interpolate
 purgative
 irritant
+celsius
+devastate
 
 //unfamiliar
 copious

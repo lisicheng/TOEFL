@@ -73,7 +73,8 @@ Verb: Grasp mentally; understand.
 }
 compress
 {
-Noun: A pad of absorbent material pressed onto part of the body to relieve inflammation or stop bleeding. Verb: Flatten by pressure; squeeze; press.
+Noun: A pad of absorbent material pressed onto part of the body to relieve inflammation or stop bleeding. 
+Verb: Flatten by pressure; squeeze; press.
 }
 comprise
 {
@@ -138,10 +139,9 @@ Noun: A person who uses strength or power to harm or intimidate those who are we
 Verb:Use superior strength or influence to intimidate(someone), typically to force him or her to do what one wants.
 }
 
-unfamiliar
-{
+//unfamiliar
 combustible
 compensate
 competence
 conceive
-}
+concise
