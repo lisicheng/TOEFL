@@ -80,7 +80,7 @@ Verb: Eat, drink, or ingest(food or drink). Buy(goods or services).
 consumption
 {
 Noun: The using up of a resource. The eating, drinking, or ingesting of something.
-A disease in pathology.
+    A disease in pathology.
 }
 contagious
 {
@@ -155,7 +155,7 @@ Verb: to be the same or match something.
 cosmic
 {
 Adjective:Of or relating to the universe or cosmos, esp. as distinct from the earth.
-            Inconceivably vast.
+    Inconceivably vast.
 }
 cosmos
 {
@@ -185,13 +185,15 @@ Noun: A voucher entitling the holder to a discount for a particular product.
 }
 courtship
 {
-    Noun: A period during which a couple develop a romantic relationship, esp. with a view to marriage.
+Noun: A period during which a couple develop a romantic relationship, esp. with a view to marriage.
 }
 crab
 
 //unfamiliar
-consent
 consort
 content
 contest
 converge
+congenial
+consent
+counteract

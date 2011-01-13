@@ -74,9 +74,9 @@ purgative
 irritant
 celsius
 devastate
-
-//unfamiliar
-copious
-gamble
-peculiarity
-humiliation
+etymology
+immerse
+cruising
+regurgitate
+plagiarism
+tedious
