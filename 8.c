@@ -168,8 +168,7 @@ delicate -
 Adjective: Very fine in texture or structure; of intricate workmanship or quality.(of a color or a scent)subtle and subdued. Easily broken or damaged, fragile.
 }
 
-unfamiliar
-{
+//unfamiliar
 misshapen
 deliberate
 delicate
@@ -179,4 +178,3 @@ crude
 defect
 crush
 decent
-}
