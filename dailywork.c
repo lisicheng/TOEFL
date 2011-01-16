@@ -71,12 +71,18 @@ Noun:The action of humiliating someone or the state of being humiliated.
 }
 interpolate
 purgative
+{
+Adjective:Strongly laxative in effect.
+Noun:A laxative;
+}
+laxative
 irritant
 celsius
 devastate
 etymology
 immerse
 cruising
+
 regurgitate
 plagiarism
 tedious

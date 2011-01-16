@@ -146,10 +146,10 @@ discrete
 Adjective: Individually separate and distinct.
 }
 
-unfamiliar
-{
-deteriorate
+//unfamiliar
 detest
 devastate
-deter
-}
+depict
+deprive
+derive
+deteriorate
