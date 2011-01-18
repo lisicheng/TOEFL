@@ -78,11 +78,33 @@ Noun:A laxative;
 laxative
 irritant
 celsius
+{
+Noun:Of or denoting a scale of temperature on which water freezes at 0 and boils at 100 under standard conditions.
+}
 devastate
 etymology
+{
+Noun:The study of the origin of the words and the way in which their meanings have changed throughout history.
+}
 immerse
-cruising
+{
+Verb:Dig or submerge in a liquid.
+}
+cruise
+{
+Verb:Sail about an area without a precise destination, esp. for pleasure.
+}
+non-proliferation treaty
 
 regurgitate
+{
+Verb:Repeat(information) without analyzing or comprehending it.
+}
 plagiarism
+{
+Noun:The practise of taking someone else's work or idea and passing them off as one's own.
+}
 tedious
+{
+Adjective:Too long, slow, or dull, tiresome or monotonous.
+}

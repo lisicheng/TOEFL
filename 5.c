@@ -172,8 +172,6 @@ Adjective: Sharing the same center.
 }
 
 //unfamiliar
-ceramic
-chafe
 chapel
 chronical
 clamor
@@ -181,3 +179,6 @@ cliff
 coarse
 coil
 concentric
+ceramic
+chafe
+coax
