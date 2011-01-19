@@ -151,8 +151,7 @@ Verb: Make (a hole or channel) by digging.
 }
 exceed
 
-unfamiliar
-{
+//unfamiliar
 elusive
 emblem
 rebel
@@ -160,4 +159,3 @@ enzyme
 ephemeral
 behalf
 exalted
-}
