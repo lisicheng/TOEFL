@@ -86,11 +86,10 @@ elliptical
 Adjective: (of speech or writing)Using or involving ellipsis, esp. so as to be difficult to understand.
 }
 eloquent
-unfamiliar
-{
+//unfamiliar
 disguise
-dubious
 dormant
 eccentric
 elliptical
-}
+disseminate
+dubious
