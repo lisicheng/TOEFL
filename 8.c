@@ -53,9 +53,6 @@ Verb: Lead or take part in an energetic and organized campaign concerning a soci
 Noun: An organized campaign concerning a political, social, or religious issue, typically motivated by a fervent desire for change.
 }
 fervent
-{
-Adjective:Having or displaying a passionate intensity.
-}
 crush
 {
 Verb: Press or squeeze(someone or something)with force or violence, typically causing serious damage or injury. 
@@ -166,14 +163,18 @@ deliberate
 Adjective: Done consciously and intentionally. Fully considered; not impulsive. 
 Verb:Engage in long and careful consideration.
 }
-delicate 
+delicate - 
 {
 Adjective: Very fine in texture or structure; of intricate workmanship or quality.(of a color or a scent)subtle and subdued. Easily broken or damaged, fragile.
 }
 
 //unfamiliar
+misshapen
+deliberate
+delicate
+crawl
+cripple
 crude
-crush
-fervent
-deceive
 defect
+crush
+decent

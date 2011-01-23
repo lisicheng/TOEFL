@@ -237,7 +237,6 @@ flagellum
 flask
 flock
 fluctuate
-foment
 formidable
 fortuitous
 fracture
@@ -245,3 +244,5 @@ frenzy
 frigid
 frugal
 gear
+foment
+fragrant
