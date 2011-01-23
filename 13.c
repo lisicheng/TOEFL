@@ -172,7 +172,7 @@ Adjective: Very cold in temperature. (esp. of a woman)Unable or unwilling to be 
 frost
 {
 Verb: Cover(something)with or as if with small ice crystals; freeze. 
-Noun: A deposit of small white ice crystals fromed on the ground or other surfaces when the temperature falls below freezing.
+Noun: A deposit of small white ice crystals formed on the ground or other surfaces when the temperature falls below freezing.
 }
 frugal
 {
