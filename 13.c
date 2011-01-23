@@ -35,7 +35,7 @@ Noun:A container or bottle, in particular. A narrow-necked glass container.
 }
 flavoring
 {
-Noun:A substance used to give a different, stronger, or more agreeable tast to food or drink.
+Noun:A substance used to give a different, stronger, or more agreeable test to food or drink.
 }
 flint
 {
@@ -237,7 +237,6 @@ flagellum
 flask
 flock
 fluctuate
-foment
 formidable
 fortuitous
 fracture
@@ -245,3 +244,5 @@ frenzy
 frigid
 frugal
 gear
+foment
+fragrant
