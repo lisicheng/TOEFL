@@ -147,9 +147,7 @@ Adjective: Individually separate and distinct.
 }
 
 //unfamiliar
+deteriorate
 detest
 devastate
-depict
-deprive
-derive
-deteriorate
+deter

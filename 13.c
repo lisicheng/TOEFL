@@ -35,7 +35,7 @@ Noun:A container or bottle, in particular. A narrow-necked glass container.
 }
 flavoring
 {
-Noun:A substance used to give a different, stronger, or more agreeable tast to food or drink.
+Noun:A substance used to give a different, stronger, or more agreeable test to food or drink.
 }
 flint
 {
@@ -172,7 +172,7 @@ Adjective: Very cold in temperature. (esp. of a woman)Unable or unwilling to be 
 frost
 {
 Verb: Cover(something)with or as if with small ice crystals; freeze. 
-Noun: A deposit of small white ice crystals fromed on the ground or other surfaces when the temperature falls below freezing.
+Noun: A deposit of small white ice crystals formed on the ground or other surfaces when the temperature falls below freezing.
 }
 frugal
 {
@@ -237,7 +237,6 @@ flagellum
 flask
 flock
 fluctuate
-foment
 formidable
 fortuitous
 fracture
@@ -245,3 +244,5 @@ frenzy
 frigid
 frugal
 gear
+foment
+fragrant

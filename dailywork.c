@@ -108,3 +108,6 @@ tedious
 {
 Adjective:Too long, slow, or dull, tiresome or monotonous.
 }
+disdain
+indoctrinate
+inflict

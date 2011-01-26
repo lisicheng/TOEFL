@@ -56,7 +56,7 @@ Noun:Expert skill or knowledge in a particular field.
 }
 expire
 {
-Verb: (of a document, authorization, or agreement)Cease to be valid, typically after a fixed period of time. Come to and end. (of a person)Die.
+Verb: (of a document, authorization, or agreement)Cease to be valid, typically after a fixed period of time. Come to an end. (of a person)Die.
 }
 exploit
 {
@@ -168,11 +168,9 @@ feudal
 Adjective: According to, resembling, or denoting the system of feudalism. Absurdly outdated or old-fashioned.
 }
 
-unfamiliar
-{
+//unfamiliar
 exert
 exhilarating
 exploit
 faint
 feasible
-}
