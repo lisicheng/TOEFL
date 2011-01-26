@@ -1,6 +1,7 @@
 excess
 {
-Adjective: Exceeding a prescribed or desirable amount. Noun: An amount of something that is more than necessary, permitted, or desirable.
+Adjective: Exceeding a prescribed or desirable amount. 
+Noun: An amount of something that is more than necessary, permitted, or desirable.
 }
 excursion
 {
@@ -42,7 +43,8 @@ Adjective: Making one feel very happy, animated, or elated; thrilling.
 }
 exotic
 {
-Noun:A thing that is imported or unusual. Adjective: Originating in or characteristic of a distant foreign country.
+Noun:A thing that is imported or unusual. 
+Adjective: Originating in or characteristic of a distant foreign country.
 }
 expel
 {

@@ -9,7 +9,7 @@ Noun:A person who has been initiated into an organization or activity, typically
 }
 inject
 {
-Verb: Drive or force(a liquid, esp. a drup or caccine)into a person or animal's body with a syringe or similar device.
+Verb: Drive or force(a liquid, esp. a drup or vaccine)into a person or animal's body with a syringe or similar device.
 }
 syringe
 {
@@ -50,7 +50,7 @@ Adjective: Necessary to make a whole complete; essential or fundamental.
 }
 integrate
 {
-Verb: Combile(one thing)with another so that they become a whole.
+Verb: Combine(one thing)with another so that they become a whole.
 }
 integrity
 {
@@ -118,7 +118,7 @@ Adjective: Of, relating to, or belonging to this division of animals.
 }
 ironic
 {
-Adjective: Using or characterized b irony. Happening in the opposite way to what is expected, and typically causing wry amusement because of this.
+Adjective: Using or characterized by irony. Happening in the opposite way to what is expected, and typically causing wry amusement because of this.
 }
 ironically
 {
@@ -165,8 +165,6 @@ Verb: Put(someone or something)into a situation in which there is a danger or lo
 //unfamiliar
 insanity
 inscribe
-insulate
-intact
 interstellar
 intoxication
 intrepid
@@ -177,3 +175,5 @@ invertebrate
 irritable
 ironic
 intense
+insulate
+intact
