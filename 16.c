@@ -22,7 +22,7 @@ Adjective: Unchanging over time or unable to be changed.
 impact
 {
 Noun: The action of one object coming forcibly into contact with another. 
-Verb: Come into forceble contact with another object. Come into forcible contac with.
+Verb: Come into forceble contact with another object. Come into forcible contact with.
 }
 impair
 {
@@ -243,8 +243,6 @@ Verb: Hinder, restrain, or prevent(an action or process). Prevent or prohibit(so
 }
 //unfamiliar
 impart
-impermeable
-improvise
 inaugurate
 inclination
 incursion

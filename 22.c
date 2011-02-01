@@ -176,8 +176,7 @@ Verb:Obtain a patent for(an invention).
 Adjective: Easily recognizable; obvious. 
 Noun: A government authority to an individual or organization conferring a right or title, esp. the sole right to make, use, or sell some invention.
 }
-unfamiliar
-{
+//unfamiliar
 onslaught
 ooze
 optical
@@ -195,4 +194,4 @@ paraphrase
 parasite
 pasture
 patch
-}
+offensive

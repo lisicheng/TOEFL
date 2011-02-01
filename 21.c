@@ -174,7 +174,6 @@ obstruct
 Verb: Block(an opening, path, road, etc.); be or get in the way of.
 }
 //unfamiliar
-mundane
 municipal
 mural
 myth
@@ -185,3 +184,4 @@ nourish
 noxious
 oblivious
 obsolete
+mundane
